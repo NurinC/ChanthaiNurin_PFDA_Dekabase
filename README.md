@@ -11,7 +11,7 @@ My final project for PFDA: A visual novel of a grand tour of the Dekabase!
 https://youtu.be/8aRgaNvATvU
 
 ## GitHub Repository
-GitHub Repo: <URL>
+GitHub Repo: https://github.com/NurinC/DekaBaseFinal
 
 ## Description
 
